@@ -1,0 +1,22 @@
+{
+  "name": "noteo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debbysa/noteo.git"
+  },
+  "author": "deby.silvia23@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debbysa/noteo/issues"
+  },
+  "homepage": "https://github.com/debbysa/noteo#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
